@@ -1,0 +1,2427 @@
+﻿
+
+*****************************PICTURES*****************************
+
+<picture B1read>
+/ numitems = 43
+/ items = B1read
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+</picture>
+
+<item B1read>
+/ 1 = "filler1a.jpg"
+/ 2 = "filler2a.jpg"
+/ 3 = "filler3a.jpg" 
+/ 4 = "filler4a.jpg"
+/ 5 = "filler5a.jpg"
+/ 6 = "filler6a.jpg"
+/ 7 = "filler7a.jpg"
+/ 8 = "filler8a.jpg"
+/ 9 = "filler9a.jpg"
+/ 10 = "filler10a.jpg"
+/ 11 = "filler11a.jpg"
+/ 12 = "filler12a.jpg"
+/ 13 = "filler13a.jpg"
+/ 14 = "filler14a.jpg"
+/ 15 = "filler15a.jpg"
+/ 16 = "filler16a.jpg"
+/ 17 = "filler17a.jpg"
+/ 18 = "filler18a.jpg"
+/ 19 = "filler19a.jpg"
+/ 20 = "filler20a.jpg"
+/ 21 = "filler21a.jpg"
+/ 22 = "filler22a.jpg"
+/ 23 = "filler23a.jpg"
+/ 24 = "filler24a.jpg"
+/ 25 = "filler25a.jpg"
+/ 26 = "filler26a.jpg"
+/ 27 = "filler27a.jpg"
+/ 28 = "filler28a.jpg"
+/ 29 = "filler29a.jpg"
+/ 30 = "filler30a.jpg"
+/ 31 = "filler31a.jpg"
+/ 32 = "filler32a.jpg"
+/ 33 = "filler33a.jpg"
+/ 34 = "filler34a.jpg"
+/ 35 = "filler35a.jpg"
+/ 36 = "filler36a.jpg"
+/ 37 = "filler37a.jpg"
+/ 38 = "filler38a.jpg"
+/ 39 = "filler39a.jpg"
+/ 40 = "filler40a.jpg"
+/ 41 = "filler41a.jpg"
+/ 42 = "filler42a.jpg"
+/ 43 = "filler43a.jpg"
+</item>
+
+<picture B2recogFiller>
+/ numitems = 43
+/ items = B2recogFiller
+/ erase = false
+/ resetinterval = 2 
+/ size = (800, 1200)
+</picture>
+
+<item B2recogFiller>
+/ 1 = "filler1a.jpg"
+/ 2 = "filler2a.jpg"
+/ 3 = "filler3a.jpg" 
+/ 4 = "filler4a.jpg"
+/ 5 = "filler5a.jpg"
+/ 6 = "filler6a.jpg"
+/ 7 = "filler7a.jpg"
+/ 8 = "filler8a.jpg"
+/ 9 = "filler9a.jpg"
+/ 10 = "filler10a.jpg"
+/ 11 = "filler11a.jpg"
+/ 12 = "filler12a.jpg"
+/ 13 = "filler13a.jpg"
+/ 14 = "filler14a.jpg"
+/ 15 = "filler15a.jpg"
+/ 16 = "filler16a.jpg"
+/ 17 = "filler17a.jpg"
+/ 18 = "filler18a.jpg"
+/ 19 = "filler19a.jpg"
+/ 20 = "filler20a.jpg"
+/ 21 = "filler21a.jpg"
+/ 22 = "filler22b.jpg"
+/ 23 = "filler23b.jpg"
+/ 24 = "filler24b.jpg"
+/ 25 = "filler25b.jpg"
+/ 26 = "filler26b.jpg"
+/ 27 = "filler27b.jpg"
+/ 28 = "filler28b.jpg"
+/ 29 = "filler29b.jpg"
+/ 30 = "filler30b.jpg"
+/ 31 = "filler31b.jpg"
+/ 32 = "filler32b.jpg"
+/ 33 = "filler33b.jpg"
+/ 34 = "filler34b.jpg"
+/ 35 = "filler35b.jpg"
+/ 36 = "filler36b.jpg"
+/ 37 = "filler37b.jpg"
+/ 38 = "filler38b.jpg"
+/ 39 = "filler39b.jpg"
+/ 40 = "filler40b.jpg"
+/ 41 = "filler41b.jpg"
+/ 42 = "filler42b.jpg"
+/ 43 = "filler43b.jpg"
+</item>
+
+<picture AsianEliteSR>
+/ numitems = 2
+/ items = AsianEliteSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+</picture>
+
+<picture AsianEliteSRUse>
+/ items = AsianEliteSR
+/ erase = false
+/ resetinterval = 2
+/ select = list.pictureIndex
+/ size = (800, 1200)
+</picture>
+
+
+<list pictureIndex>
+/ selectionmode = random
+/ items = (1,2)
+</list>
+
+
+<item AsianEliteSR>
+/ 1 = "AsianEliteSC.jpg"
+/ 2 = "AsianEliteSD.jpg"
+</item>
+
+
+
+
+<picture AsianEliteNE>
+/ numitems = 2
+/ items = AsianEliteNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item AsianEliteNE>
+/ 1 = "AsianEliteNA.jpg"
+/ 2 = "AsianEliteNB.jpg"
+</item>
+
+
+
+
+****lesbian****
+
+<picture LesbianTradeSR>
+/ numitems = 2
+/ items = LesbianTradeSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item LesbianTradeSR>
+/ 1 = "LesbianTradeSC.jpg"
+/ 2 = "LesbianTradeSD.jpg"
+</item>
+
+<picture LesbianTradeSRUse>
+/ items = LesbianTradeSR
+/ erase = false
+/ resetinterval = 2
+/ select = list.pictureIndex
+/ size = (800, 1200)
+
+</picture>
+
+
+<picture LesbianTradeNE>
+/ numitems = 2
+/ items = LesbianTradeNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item LesbianTradeNE>
+/ 1 = "LesbianTradeNA.jpg"
+/ 2 = "LesbianTradeNB.jpg"
+</item>
+
+
+
+
+
+***black subsidized****
+
+
+<picture BlackSubsidizedSR>
+/ numitems = 2
+/ items = BlackSubsidizedSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item BlackSubsidizedSR>
+/ 1 = "BlackSubsidizedSC.jpg"
+/ 2 = "BlackSubsidizedSD.jpg"
+</item>
+
+
+
+<picture BlackSubsidizedSRUse>
+/ items = BlackSubsidizedSR
+/ erase = false
+/ resetinterval = 2
+/ select = list.pictureIndex
+/ size = (800, 1200)
+
+</picture>
+
+
+<picture BlackSubsidizedNE>
+/ numitems = 2
+/ items = BlackSubsidizedNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item BlackSubsidizedNE>
+/ 1 = "BlackSubsidizedNA.jpg"
+/ 2 = "BlackSubsidizedNB.jpg"
+</item>
+
+
+
+
+
+******black athletic******
+
+<picture BlackAthleticSR>
+/ numitems = 2
+/ items = BlackAthleticSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item BlackAthleticSR>
+/ 1 = "BlackAthleticSC.jpg"
+/ 2 = "BlackAthleticSD.jpg"
+</item>
+
+
+
+
+<picture BlackAthleticSRUse>
+/ items = BlackAthleticSR
+/ erase = false
+/ resetinterval = 2
+/ select = list.pictureIndex
+/ size = (800, 1200)
+
+</picture>
+
+
+
+<picture BlackAthleticNE>
+/ numitems = 2
+/ items = BlackAthleticNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item BlackAthleticNE>
+/ 1 = "BlackAthleticNA.jpg"
+/ 2 = "BlackAthleticNB.jpg"
+</item>
+
+
+*****gay******
+
+<picture GayAppearanceSR>
+/ numitems = 2
+/ items = GayAppearanceSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item GayAppearanceSR>
+/ 1 = "GayAppearanceSC.jpg"
+/ 2 = "GayAppearanceSD.jpg"
+</item>
+
+
+
+
+
+<picture GayAppearanceSRUse>
+/ items = GayAppearanceSR
+/ erase = false
+/ resetinterval = 2
+/ select = list.pictureIndex
+/ size = (800, 1200)
+
+</picture>
+
+
+<picture GayAppearanceNE>
+/ numitems = 2
+/ items = GayAppearanceNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item GayAppearanceNE>
+/ 1 = "GayAppearanceNA.jpg"
+/ 2 = "GayAppearanceNB.jpg"
+</item>
+
+
+
+****Hispanic&********
+<picture HispanicIllegalSR>
+/ numitems = 2
+/ items = HispanicIllegalSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item HispanicIllegalSR>
+/ 1 = "HispanicIllegalSC.jpg"
+/ 2 = "HispanicIllegalSD.jpg"
+</item>
+
+
+
+
+<picture HispanicIllegalSRUse>
+/ items = HispanicIllegalSR
+/ erase = false
+/ resetinterval = 2
+/ select = list.pictureIndex
+/ size = (800, 1200)
+
+</picture>
+
+
+
+
+<picture HispanicIllegalNE>
+/ numitems = 2
+/ items = HispanicIllegalNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item HispanicIllegalNE>
+/ 1 = "HispanicIllegalNA.jpg"
+/ 2 = "HispanicIllegalNB.jpg"
+</item>
+
+
+****women leaders********
+<picture WomenLeadersSR>
+/ numitems = 2
+/ items = WomenLeadersSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item WomenLeadersSR>
+/ 1 = "WomenLeadersSC.jpg"
+/ 2 = "WomenLeadersSD.jpg"
+</item>
+
+
+<picture WomenLeadersSRUse>
+/ items = WomenLeadersSR
+/ erase = false
+/ resetinterval = 2
+/ select = list.pictureIndex
+/ size = (800, 1200)
+
+</picture>
+
+
+
+<picture WomenLeadersNE>
+/ numitems = 2
+/ items = WomenLeadersNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item WomenLeadersNE>
+/ 1 = "WomenLeadersNA.jpg"
+/ 2 = "WomenLeadersNB.jpg"
+</item>
+
+
+
+*****girls math******
+<picture GirlsMathSR>
+/ numitems = 2
+/ items = GirlsMathSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item GirlsMathSR>
+/ 1 = "GirlsMathSC.jpg"
+/ 2 = "GirlsMathSD.jpg"
+</item>
+
+
+<picture GirlsMathSRUse>
+/ items = GirlsMathSR
+/ erase = false
+/ resetinterval = 2
+/ select = list.pictureIndex
+/ size = (800, 1200)
+
+</picture>
+
+<picture GirlsMathNE>
+/ numitems = 2
+/ items = GirlsMathNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+
+</picture>
+
+<item GirlsMathNE>
+/ 1 = "GirlsMathNA.jpg"
+/ 2 = "GirlsMathNB.jpg"
+</item>
+
+
+
+<picture recogSC>
+/ numitems = 2
+/ items = recogSC
+/ erase = false
+/ resetinterval = 2
+/ select = sequence(1,2)
+/ size = (800, 1200)
+
+</picture>
+
+<item recogSC>
+</item>
+
+
+<picture recogSCOP>
+/ numitems = 2
+/ items = recogSCOP
+/ erase = false
+/ resetinterval = 2
+/ select = sequence(2,1)
+/ size = (800, 1200)
+
+</picture>
+
+<item recogSCOP>
+</item>
+
+
+<picture recogSD>
+/ numitems = 2
+/ items = recogSD
+/ erase = false
+/ resetinterval = 2
+/ select = sequence(2,1)
+/ size = (800, 1200)
+
+</picture>
+
+<item recogSD>
+</item>
+
+<picture recogSDOP>
+/ numitems = 2
+/ items = recogSDOP
+/ erase = false
+/ resetinterval = 2
+/ select = sequence(1,2)
+/ size = (800, 1200)
+
+</picture>
+
+<item recogSDOP>
+</item>
+
+
+
+
+
+
+
+****NE****
+
+
+<picture recogNEOP>
+/ numitems = 4
+/ items = recogNEOP
+/ erase = false
+/ resetinterval = 2
+/ select = sequence(3,4,1,2)
+/ size = (800, 1200)
+
+</picture>
+
+<item recogNEOP>
+</item>
+
+
+
+<picture recogNE>
+/ numitems = 4
+/ items = recogNE
+/ erase = false
+/ resetinterval = 2
+/ select = sequence(1,2,3,4)
+/ size = (800, 1200)
+
+</picture>
+
+<item recogNE>
+</item>
+
+
+
+************SRC TYPE PHOTOS*****************
+
+
+Asian Elite Fill in the Blank
+************
+
+<picture BlankAsianEliteSR>
+/ numitems = 2
+/ items = BlankAsianEliteSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankAsianEliteSR>
+/ 1 = "BlankAsianEliteSR.jpg"
+</item>
+
+
+<picture BlankAsianEliteNE>
+/ numitems = 2
+/ items = BlankAsianEliteNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankAsianEliteNE>
+/ 1 = "BlankAsianEliteNE.jpg"
+</item>
+
+LesbianTrade Fill in the Blank
+***********************
+
+<picture BlankLesbianTradeSR>
+/ numitems = 2
+/ items = BlankLesbianTradeSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankLesbianTradeSR>
+/ 1 = "BlankLesbianTradeSR.jpg"
+</item>
+
+
+<picture BlankLesbianTradeNE>
+/ numitems = 2
+/ items = BlankLesbianTradeNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankLesbianTradeNE>
+/ 1 = "BlankLesbianTradeNE.jpg"
+</item>
+
+BlackSubsidized Fill in the Blank
+***********************
+
+<picture BlankBlackSubsidizedSR>
+/ numitems = 2
+/ items = BlankBlackSubsidizedSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankBlackSubsidizedSR>
+/ 1 = "BlankBlackSubsidizedSR.jpg"
+</item>
+
+
+<picture BlankBlackSubsidizedNE>
+/ numitems = 2
+/ items = BlankBlackSubsidizedNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankBlackSubsidizedNE>
+/ 1 = "BlankBlackSubsidizedNE.jpg"
+</item>
+
+BlackAthletic Fill in the Blank
+***********************
+
+<picture BlankBlackAthleticSR>
+/ numitems = 2
+/ items = BlankBlackAthleticSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankBlackAthleticSR>
+/ 1 = "BlankBlackAthleticSR.jpg"
+</item>
+
+
+<picture BlankBlackAthleticNE>
+/ numitems = 2
+/ items = BlankBlackAthleticNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankBlackAthleticNE>
+/ 1 = "BlankBlackAthleticNE.jpg"
+</item>
+
+GayAppearance Fill in the Blank
+***********************
+
+<picture BlankGayAppearanceSR>
+/ numitems = 2
+/ items = BlankGayAppearanceSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankGayAppearanceSR>
+/ 1 = "BlankGayAppearanceSR.jpg"
+</item>
+
+
+<picture BlankGayAppearanceNE>
+/ numitems = 2
+/ items = BlankGayAppearanceNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankGayAppearanceNE>
+/ 1 = "BlankGayAppearanceNE.jpg"
+</item>
+
+HispanicIllegal Fill in the Blank
+***********************
+
+<picture BlankHispanicIllegalSR>
+/ numitems = 2
+/ items = BlankHispanicIllegalSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankHispanicIllegalSR>
+/ 1 = "BlankHispanicIllegalSR.jpg"
+</item>
+
+
+<picture BlankHispanicIllegalNE>
+/ numitems = 2
+/ items = BlankHispanicIllegalNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankHispanicIllegalNE>
+/ 1 = "BlankHispanicIllegalNE.jpg"
+</item>
+
+WomenLeaders Fill in the Blank
+***********************
+
+<picture BlankWomenLeadersSR>
+/ numitems = 2
+/ items = BlankWomenLeadersSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankWomenLeadersSR>
+/ 1 = "BlankWomenLeadersSR.jpg"
+</item>
+
+
+<picture BlankWomenLeadersNE>
+/ numitems = 2
+/ items = BlankWomenLeadersNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankWomenLeadersNE>
+/ 1 = "BlankWomenLeadersNE.jpg"
+</item>
+
+GirlsMath Fill in the Blank
+***********************
+
+<picture BlankGirlsMathSR>
+/ numitems = 2
+/ items = BlankGirlsMathSR
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankGirlsMathSR>
+/ 1 = "BlankGirlsMathSR.jpg"
+</item>
+
+
+<picture BlankGirlsMathNE>
+/ numitems = 2
+/ items = BlankGirlsMathNE
+/ erase = false
+/ resetinterval = 2
+/ size = (800, 1200)
+/ position = (50%, 30%)
+
+</picture>
+
+<item BlankGirlsMathNE>
+/ 1 = "BlankGirlsMathNE.jpg"
+</item>
+
+
+<picture BlankSR>
+/ numitems = 8
+/ items = BlankSR
+/ erase = false
+/ resetinterval = 2
+/ select = sequence(1,2,3,4,5,6,7,8)
+/ size = (800, 1200)
+/ position = (50%, 30%)
+</picture>
+
+
+<item BlankSR>
+</item>
+
+*****************************TRIALS*****************************
+
+READ
+
+<trial B1read>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = B1read] 
+/ beginresponsetime=2000
+</trial>
+
+<trial AsianEliteSRTrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = AsianEliteSRUse] 
+/ beginresponsetime=2000
+/ ontrialend=[if (contains(picture.AsianEliteSRUse.currentitem, "SC")) {
+	values.sccounter = values.sccounter + 1;
+	item.recogSCOP.item = picture.AsianEliteSR.2;
+	item.recogSC.item = picture.AsianEliteSRUse.currentitem;
+	item.BlankSR.item = picture.BlankAsianEliteSR.currentitem
+}
+else
+{
+    item.recogSDOP.item = picture.AsianEliteSR.1;
+	values.sdcounter = values.sdcounter+ 1; 
+	item.recogSD.item = picture.AsianEliteSRUse.currentitem;
+	item.BlankSR.item = picture.BlankAsianEliteSR.currentitem
+}]
+
+/ ontrialbegin=[if (values.sccounter >=2) {
+list.pictureIndex.removeitem(1);
+	
+	
+}
+if (values.sdcounter >=2) {
+list.pictureIndex.removeitem(2);
+
+	}
+]
+</trial>
+
+<trial AsianEliteNETrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = AsianEliteNE] 
+/ beginresponsetime=2000
+/ ontrialend = [item.recogNE.item = picture.AsianEliteNE.currentitem]
+/ ontrialend=[if (contains(picture.AsianEliteNE.currentitem, "NA")) {
+	item.recogNEOP.item = picture.AsianEliteNE.2;
+	item.BlankSR.item = picture.BlankAsianEliteNE.currentitem
+}
+else
+{
+    item.recogNEOP.item = picture.AsianEliteNE.1;
+	item.BlankSR.item = picture.BlankAsianEliteNE.currentitem
+}]
+</trial>
+
+<trial LesbianTradeSRTrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = LesbianTradeSRUse] 
+/ beginresponsetime=2000
+/ ontrialend=[if (contains(picture.LesbianTradeSRUse.currentitem, "SC")) {
+	values.sccounter = values.sccounter + 1;
+	item.recogSCOP.item = picture.LesbianTradeSR.2;
+	item.recogSC.item = picture.LesbianTradeSRUse.currentitem;
+	item.BlankSR.item = picture.BlankLesbianTradeSR.currentitem
+}
+else
+{
+    values.sdcounter = values.sdcounter+ 1;
+	item.recogSDOP.item = picture.LesbianTradeSR.1;
+	item.recogSD.item = picture.LesbianTradeSRUse.currentitem;
+	item.BlankSR.item = picture.BlankLesbianTradeSR.currentitem	
+}]
+/ ontrialbegin=[if (values.sccounter >=2) {
+list.pictureIndex.removeitem(1);
+	
+	
+}
+if (values.sdcounter >=2) {
+list.pictureIndex.removeitem(2);
+
+	}
+]
+</trial>
+
+<trial LesbianTradeNETrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = LesbianTradeNE] 
+/ beginresponsetime=2000
+/ ontrialend = [item.recogNE.item = picture.LesbianTradeNE.currentitem]
+/ ontrialend=[if (contains(picture.LesbianTradeNE.currentitem, "NA")) {
+	item.recogNEOP.item = picture.LesbianTradeNE.2;
+	item.BlankSR.item = picture.BlankLesbianTradeNE.currentitem
+}
+else
+{
+    item.recogNEOP.item = picture.LesbianTradeNE.1; 
+	item.BlankSR.item = picture.BlankLesbianTradeNE.currentitem
+}]
+</trial>
+
+<trial BlackSubsidizedSRTrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = BlackSubsidizedSRUse] 
+/ beginresponsetime=2000
+/ ontrialend=[if (contains(picture.BlackSubsidizedSRUse.currentitem, "SC")) {
+	values.sccounter = values.sccounter + 1;
+	item.recogSCOP.item = picture.BlackSubsidizedSR.2;
+	item.recogSC.item = picture.BlackSubsidizedSRUse.currentitem;
+	item.BlankSR.item = picture.BlankBlackSubsidizedSR.currentitem
+
+}
+else
+{
+    values.sdcounter = values.sdcounter+ 1; 
+	item.recogSDOP.item = picture.BlackSubsidizedSR.1;
+	item.recogSD.item = picture.BlackSubsidizedSRUse.currentitem;
+	item.BlankSR.item = picture.BlankBlackSubsidizedSR.currentitem
+
+}]
+/ ontrialbegin=[if (values.sccounter >=2) {
+list.pictureIndex.removeitem(1);
+	
+	
+}
+if (values.sdcounter >=2) {
+list.pictureIndex.removeitem(2);
+
+	}
+]
+</trial>
+
+<trial BlackSubsidizedNETrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = BlackSubsidizedNE] 
+/ beginresponsetime=2000
+/ ontrialend = [item.recogNE.item = picture.BlackSubsidizedNE.currentitem]
+/ ontrialend=[if (contains(picture.BlackSubsidizedNE.currentitem, "NA")) {
+	item.recogNEOP.item = picture.BlackSubsidizedNE.2;
+	item.BlankSR.item = picture.BlankBlackSubsidizedNE.currentitem
+}
+else
+{
+    item.recogNEOP.item = picture.BlackSubsidizedNE.1;
+	item.BlankSR.item = picture.BlankBlackSubsidizedNE.currentitem	
+}]
+</trial>
+
+<trial BlackAthleticSRTrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = BlackAthleticSRUse]
+/ beginresponsetime=2000
+/ ontrialend=[if (contains(picture.BlackAthleticSRUse.currentitem, "SC") ){
+	values.sccounter = values.sccounter + 1;
+	item.recogSCOP.item = picture.BlackAthleticSR.2;
+	item.recogSC.item = picture.BlackAthleticSRUse.currentitem;
+	item.BlankSR.item = picture.BlankBlackAthleticSR.currentitem
+}
+else
+{
+    values.sdcounter = values.sdcounter+ 1; 
+	item.recogSDOP.item = picture.BlackAthleticSR.1;
+	item.recogSD.item = picture.BlackAthleticSRUse.currentitem;
+	item.BlankSR.item = picture.BlankBlackAthleticSR.currentitem
+}]
+/ ontrialbegin=[if (values.sccounter >=2) {
+list.pictureIndex.removeitem(1);
+	
+	
+}
+if (values.sdcounter >=2) {
+list.pictureIndex.removeitem(2);
+
+	}
+]
+</trial>
+
+<trial BlackAthleticNETrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = BlackAthleticNE] 
+/ beginresponsetime=2000
+/ ontrialend = [item.recogNE.item = picture.BlackAthleticNE.currentitem]
+/ ontrialend=[if (contains(picture.BlackAthleticNE.currentitem, "NA")) {
+	item.recogNEOP.item = picture.BlackAthleticNE.2;
+	item.BlankSR.item = picture.BlankBlackAthleticNE.currentitem
+}
+else
+{
+    item.recogNEOP.item = picture.BlackAthleticNE.1; 
+	item.BlankSR.item = picture.BlankBlackAthleticNE.currentitem
+}]
+</trial>
+
+<trial GayAppearanceSRTrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = GayAppearanceSRUse] 
+/ beginresponsetime=2000
+/ ontrialend=[if (contains(picture.GayAppearanceSRUse.currentitem, "SC") ){
+	values.sccounter = values.sccounter + 1;
+	item.recogSCOP.item = picture.GayAppearanceSR.2;
+	item.recogSC.item = picture.GayAppearanceSRUse.currentitem;
+	item.BlankSR.item = picture.BlankGayAppearanceSR.currentitem
+
+}
+else
+{
+    values.sdcounter = values.sdcounter+ 1; 
+	item.recogSDOP.item = picture.GayAppearanceSR.1;
+	item.recogSD.item = picture.GayAppearanceSRUse.currentitem;
+	item.BlankSR.item = picture.BlankGayAppearanceSR.currentitem
+
+}]
+/ ontrialbegin=[if (values.sccounter >=2) {
+list.pictureIndex.removeitem(1);
+	
+	
+}
+if (values.sdcounter >=2) {
+list.pictureIndex.removeitem(2);
+
+	}
+]
+</trial>
+
+<trial GayAppearanceNETrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = GayAppearanceNE] 
+/ beginresponsetime=2000
+/ ontrialend = [item.recogNE.item = picture.GayAppearanceNE.currentitem]
+/ ontrialend=[if (contains(picture.GayAppearanceNE.currentitem, "NA")) {
+	item.recogNEOP.item = picture.GayAppearanceNE.2;
+	item.BlankSR.item = picture.BlankGayAppearanceNE.currentitem
+}
+else
+{
+    item.recogNEOP.item = picture.GayAppearanceNE.1; 
+	item.BlankSR.item = picture.BlankGayAppearanceNE.currentitem
+}]
+</trial>
+
+<trial HispanicIllegalSRTrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = HispanicIllegalSRUse]
+/ beginresponsetime=2000
+/ ontrialend=[if (contains(picture.HispanicIllegalSRUse.currentitem, "SC") ){
+	values.sccounter = values.sccounter + 1;
+	item.recogSCOP.item = picture.HispanicIllegalSR.2;
+	item.recogSC.item = picture.HispanicIllegalSRUse.currentitem;
+	item.BlankSR.item = picture.BlankHispanicIllegalSR.currentitem
+}
+else
+{
+    values.sdcounter = values.sdcounter+ 1; 
+	item.recogSDOP.item = picture.HispanicIllegalSR.1;
+	item.recogSD.item = picture.HispanicIllegalSRUse.currentitem;
+	item.BlankSR.item = picture.BlankHispanicIllegalSR.currentitem
+}]
+/ ontrialbegin=[if (values.sccounter >=2) {
+list.pictureIndex.removeitem(1);
+	
+	
+}
+if (values.sdcounter >=2) {
+list.pictureIndex.removeitem(2);
+
+	}
+]
+</trial>
+
+
+<trial HispanicIllegalNETrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = HispanicIllegalNE] 
+/ beginresponsetime=2000
+/ ontrialend = [item.recogNE.item = picture.HispanicIllegalNE.currentitem]
+/ ontrialend=[if (contains(picture.HispanicIllegalNE.currentitem, "NA")) {
+	item.recogNEOP.item = picture.HispanicIllegalNE.2;
+	item.BlankSR.item = picture.BlankHispanicIllegalNE.currentitem
+}
+else
+{
+    item.recogNEOP.item = picture.HispanicIllegalNE.1; 
+	item.BlankSR.item = picture.BlankHispanicIllegalNE.currentitem
+}]
+</trial>
+
+<trial WomenLeadersSRTrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = WomenLeadersSRUse] 
+/ beginresponsetime=2000
+/ ontrialend=[if (contains(picture.WomenLeadersSRUse.currentitem, "SC")) {
+	values.sccounter = values.sccounter + 1;
+	item.recogSCOP.item = picture.WomenLeadersSR.2;
+	item.recogSC.item = picture.WomenLeadersSRUse.currentitem;
+	item.BlankSR.item = picture.BlankWomenLeadersSR.currentitem
+}
+else
+{
+    values.sdcounter = values.sdcounter+ 1; 
+	item.recogSDOP.item = picture.WomenLeadersSR.1;
+	item.recogSD.item = picture.WomenLeadersSRUse.currentitem;
+	item.BlankSR.item = picture.BlankWomenLeadersSR.currentitem
+}]
+/ ontrialbegin=[if (values.sccounter >=2) {
+list.pictureIndex.removeitem(1);
+	
+	
+}
+if (values.sdcounter >=2) {
+list.pictureIndex.removeitem(2);
+
+	}
+]
+</trial>
+
+<trial WomenLeadersNETrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = WomenLeadersNE] 
+/ beginresponsetime=2000
+/ ontrialend = [item.recogNE.item = picture.WomenLeadersNE.currentitem]
+/ ontrialend=[if (contains(picture.WomenLeadersNE.currentitem, "NA")) {
+	item.recogNEOP.item = picture.WomenLeadersNE.2;
+	item.BlankSR.item = picture.BlankWomenLeadersNE.currentitem
+}
+else
+{
+    item.recogNEOP.item = picture.WomenLeadersNE.1; 
+	item.BlankSR.item = picture.BlankWomenLeadersNE.currentitem
+}]
+</trial>
+
+<trial GirlsMathSRTrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = GirlsMathSRUse] 
+/ beginresponsetime=2000
+/ ontrialend=[if (contains(picture.GirlsMathSRUse.currentitem, "SC")){
+	values.sccounter = values.sccounter + 1;
+	item.recogSCOP.item = picture.GirlsMathSR.2;
+	item.recogSC.item = picture.GirlsMathSRUse.currentitem;
+	item.BlankSR.item = picture.BlankGirlsMathSR.currentitem
+	
+}
+else
+{
+    values.sdcounter = values.sdcounter+ 1; 
+	item.recogSDOP.item = picture.GirlsMathSR.1;
+	item.recogSD.item = picture.GirlsMathSRUse.currentitem;
+	item.BlankSR.item = picture.BlankGirlsMathSR.currentitem
+}]
+/ ontrialbegin=[if (values.sccounter >=2) {
+list.pictureIndex.removeitem(1);
+	
+	
+}
+if (values.sdcounter >=2) {
+list.pictureIndex.removeitem(2);
+
+	}
+]
+</trial>
+
+
+
+<trial GirlsMathNETrial>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = GirlsMathNE]
+/ beginresponsetime=2000
+/ ontrialend = [item.recogNE.item = picture.GirlsMathNE.currentitem]
+/ ontrialend=[if (contains(picture.GirlsMathNE.currentitem, "NA")) {
+	item.recogNEOP.item = picture.GirlsMathNE.2;
+	item.BlankSR.item = picture.BlankGirlsMathNE.currentitem
+}
+else
+{
+    item.recogNEOP.item = picture.GirlsMathNE.1; 
+	item.BlankSR.item = picture.BlankGirlsMathNE.currentitem
+}]
+</trial>
+
+*****************************RECOGNIZE*****************************
+
+
+******filler*******
+<trial B2recog>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = B2recogFiller] 
+</trial>
+
+
+*******ne******
+<trial B2recogNE>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = recogNE] 
+</trial>
+
+<trial B2recogNEOP>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = recogNEOP] 
+</trial>
+
+******SR******
+<trial B2recogSC>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = recogSC] 
+
+
+</trial>
+
+<trial B2recogSCOP>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = recogSCOP] 
+
+</trial>
+
+
+<trial B2recogSD>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = recogSD] 
+
+
+</trial>
+
+
+
+<trial B2recogSDOP>
+/ validresponse = ("k", "d")
+/ stimulusframes = [1 = recogSDOP] 
+
+</trial>
+
+**************Blank Trials*****************
+
+<picture SRCstylefillers>
+/ items = SRCstylefillers
+/ select = noreplace
+/ size = (800, 1200)
+/ erase = false
+/ position = (50%, 30%)
+
+</picture>
+
+<item SRCstylefillers>
+/ 1="BlankFiller1.jpg"
+/ 2="BlankFiller2.jpg"
+/ 3="BlankFiller3.jpg"
+/ 4="BlankFiller4.jpg"
+/ 5="BlankFiller5.jpg"
+/ 6="BlankFiller6.jpg"
+/ 7="BlankFiller7.jpg"
+/ 8="BlankFiller8.jpg"
+/ 9="BlankFiller9.jpg"
+/ 10="BlankFiller10.jpg"
+/ 11="BlankFiller11.jpg"
+/ 12="BlankFiller12.jpg"
+/ 13="BlankFiller13.jpg"
+/ 14="BlankFiller14.jpg"
+/ 15="BlankFiller15.jpg"
+/ 16="BlankFiller16.jpg"
+/ 17="BlankFiller17.jpg"
+/ 18="BlankFiller18.jpg"
+/ 19="BlankFiller19.jpg"
+/ 20="BlankFiller20.jpg"
+/ 21="BlankFiller21.jpg"
+/ 22="BlankFiller22.jpg"
+/ 23="BlankFiller23.jpg"
+/ 24="BlankFiller24.jpg"
+/ 25="BlankFiller25.jpg"
+/ 26="BlankFiller26.jpg"
+/ 27="BlankFiller27.jpg"
+/ 28="BlankFiller28.jpg"
+/ 29="BlankFiller29.jpg"
+/ 30="BlankFiller30.jpg"
+/ 31="BlankFiller31.jpg"
+/ 32="BlankFiller32.jpg"
+/ 33="BlankFiller33.jpg"
+/ 34="BlankFiller34.jpg"
+/ 35="BlankFiller35.jpg"
+/ 36="BlankFiller36.jpg"
+/ 37="BlankFiller37.jpg"
+/ 38="BlankFiller38.jpg"
+/ 39="BlankFiller39.jpg"
+/ 40="BlankFiller40.jpg"
+/ 41="BlankFiller41.jpg"
+/ 42="BlankFiller42.jpg"
+/ 43="BlankFiller43.jpg"
+</item>
+
+<picture SRCstylephotos>
+/ items = SRCstylephotos
+/ select = noreplace
+/ size = (800, 1200)
+/ erase = false
+/ position = (50%, 30%)
+
+</picture>
+
+<item SRCstylephotos>
+/ 1="BlankAsianeliteNE.jpg"
+/ 2="BlankAsianeliteSR.jpg"
+/ 3="BlankLesbianTradeNE.jpg"
+/ 4="BlankLesbianTradeSR.jpg"
+/ 5="BlankBlackSubsidizedNE.jpg"
+/ 6="BlankBlackSubsidizedSR.jpg"
+/ 7="BlankBlackAthleticNE.jpg"
+/ 8="BlankBlackAthleticSR.jpg"
+/ 9="BlankGayAppearanceNE.jpg"
+/ 10="BlankGayAppearanceSR.jpg"
+/ 11="BlankHispanicIllegalNE.jpg"
+/ 12="BlankHispanicIllegalSR.jpg"
+/ 13="BlankWomenLeadersNE.jpg"
+/ 14="BlankWomenLeadersSR.jpg"
+/ 15="BlankGirlsMathNE.jpg"
+/ 16="BlankGirlsMathSR.jpg"
+</item>
+
+<survey Fillintheblank>
+/ pages = [1-43=fillersurveypages; 44-51=SRsurveypages]
+</survey>
+
+<surveypage fillersurveypages>
+/ stimulusframes = [1=SRCstylefillers]
+/ questions=[1=percentage; 2=moreless]
+/ nextbuttonposition = (90%, 90%)
+/ showpagenumbers=false
+/ showquestionnumbers=false
+</surveypage>
+
+<surveypage SRsurveypages>
+/ stimulusframes = [1=blankSR]
+/ questions=[1=percentage; 2=moreless]
+/ nextbuttonposition = (90%, 90%)
+/ showpagenumbers=false
+/ showquestionnumbers=false
+</surveypage>
+
+<radiobuttons moreless>
+/ options = ("more", "less")
+/ position = (47, 70)
+/ required = true
+</radiobuttons>
+
+<textbox percentage>
+/ maxchars = 2
+/ position = (42, 60)
+/ required = true
+</textbox>
+
+
+<block SRCsurvey>
+/ trials  = [1-51=list.fillintheblank]
+/ preinstructions = (page.blank)
+</block>
+
+*****************************TEXT*****************************
+
+<instruct srd>  
+/ nextkey = ("k")
+/ postvkey = ("d")
+font = ("Times New Roman", -20, 400, 0, 34)
+/ fontstyle = ("Times New Roman", 12.5pt)
+</instruct>
+
+<page intro>
+^^^^^^^
+		  STATISTICAL REASONING STUDY
+</page>
+<page intro2>UNIVERSITY OF WISCONSIN-MADISON
+UNIVERSITY OF WISCONSIN-MADISON
+^^
+Research Participant Information and Consent Form
+^^^
+Title of the Study: Statistical Reasoning Study
+^^^
+Principal Investigator: Dr. William Cox (william.cox@wisc.edu)
+^^^
+DESCRIPTION OF THE RESEARCH
+You are invited to participate in a research study about statistical reasoning. Our lab studies how people interpret statistics and infer meaning from newspaper articles and other written forms of communication. The research will be conducted via Amazon Mechanical Turk online.
+^^^
+WHAT WILL MY PARTICIPATION INVOLVE?
+Participation is voluntary and you may choose not to participate or to withdraw participation at any time. If you decide to participate in this research you will be asked to read a series of short article excerpts containing statistics. You will then be asked to make inferences on these statistics. Your participation will last approximately 30 minutes.
+^^^
+ARE THERE ANY RISKS TO ME?
+There is a minimal risk for breach of confidentiality from participation.
+^^^
+ARE THERE ANY BENEFITS TO ME?
+We don't expect any direct benefits to you from participation in this study.
+^^^
+WILL I BE COMPENSATED FOR MY PARTICIPATION?
+If you satisfactorily complete the study, you will receive $2 to compensate you for your participation. Payments are made via Amazon’s payment system.
+^^^
+HOW WILL MY CONFIDENTIALITY BE PROTECTED?
+While there will probably be publications as a result of this study, your name will not be used. Only group characteristics will be published.
+^^^
+WHOM SHOULD I CONTACT IF I HAVE QUESTIONS?
+You may ask any questions about the research at any time. If you have questions about the research after you leave today you should contact the Principal Investigator William Cox at william.cox@wisc.edu. ^
+If you are not satisfied with the response from the research team, have more questions, or want to talk with someone about your rights as a research participant, you should contact the Education and Social/Behavioral Science IRB Office at 608-263-2320.
+^^
+CLICKING ACCEPT
+If you wish to have a copy of the consent, please print this form now before continuing. By clicking on the arrow, you indicate that you voluntarily agree to participate in this study and that you understand the information in this consent form. 
+ </page>
+<page end>
+Thank you for participating in the study!  
+</page>
+
+<page read>
+The following pages will contain news headlines. Please read them completely before continuing to the next page. You will not be able to go back and re-read them.
+</page>
+
+<page recog>
+Please answer whether or not you recognize the following sentences. Work quickly and use your gut instincts.
+</page>
+
+<page blank>
+The following pages will contain statistics with blank percentages and will have you select more or less to determine the direction of the relationship. Only use whole numbers in your answer for the percentage, don't include decimals.
+</page>
+
+
+<text Recognizeright>  
+/ numitems = 1
+/ items = ("I recognize this sentence (K)")
+/ font = ("Times New Roman", -24, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (80, 10)
+</text>
+
+<text NoRecognizeleft>  
+/ numitems = 1
+/ items = ("I do not recognize this sentence (D)")
+/ font = ("Times New Roman", -24, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (20, 10)
+</text>
+
+<text MoveOnright>  
+/ numitems = 1
+/ items = ("Move on to the next page (K)")
+/ font = ("Times New Roman", -24, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (80, 10)
+</text>
+
+
+<surveypage stop>
+/ showquestionnumbers = false
+/ showpagenumbers = false 
+/ caption = "Thank you for participating in the study! Please wait quietly until everyone is finished."
+/ fontstyle = ("Times New Roman", 15pt)
+/ nextbuttonposition = (110%, 110%)
+</surveypage>
+
+<trial wait>
+/ validresponse = ("P") 
+/ stimulusframes = [1=wait]
+</trial>
+
+<block wait>
+/ bgstim = (wait)
+/ trials = [1 = wait]
+</block>
+
+<text wait>  
+/ numitems = 1
+/ items = ("Please wait for the experimenter")
+/ font = ("Times New Roman", -24, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (50, 15)
+</text>
+
+
+<text stop>  
+/ numitems = 1
+/ items = ("Thank you for participating in the study! Please wait quietly until everyone is finished.")
+/ font = ("Times New Roman", -24, 700, 0, 49)
+/ txbgcolor = (255, 255, 255)
+/ position = (50, 15)
+</text>
+
+trial stop>
+/ validresponse = ("Q") 
+</trial>
+
+<block stop>
+/ bgstim = (stop)
+/ trials = [1 = stop]
+</block>
+
+
+
+<textbox participantrace>
+/ caption = "What is your race/ethnicity?"
+/ textboxsize = (50,10)
+/ required = true
+</textbox>
+
+<radiobuttons participantgender>
+/ caption = "What is your gender?"
+/ options = ("Male", "Female")
+</radiobuttons>
+
+<textbox sexorientation>
+/ caption = "What is your sexual orientation?"
+/ textboxsize = (50,10)
+/ required = true
+</textbox>
+
+<textbox age>
+/ caption = "What is your age?"
+/ textboxsize = (50,10)
+/ required = true
+</textbox>
+
+<radiobuttons education>
+/ caption = "What is your education?"
+/ options = ("Less than High School", "In High School," "High School graduate," "In college," "College graduate")
+</radiobuttons>
+
+<textbox timeinUS>
+/ caption = "How long have you lived in the U.S.?"
+/ textboxsize = (50,10)
+/ required = true
+</textbox>
+
+<surveypage demographics1>
+/ questions = [1=participantrace; 2=participantgender; 3=sexorientation]
+/ showbackbutton = false
+/ showpagenumbers=false
+</surveypage>
+
+<surveypage demographics2>
+/ questions = [1=timeinUS; 2=education; 3=age]
+/ showbackbutton = false
+/ showpagenumbers=false
+</surveypage>
+
+<textbox name>
+/ caption = "So that we can give you your extra credit for completing this experiment, please type your first and last name in the box below."
+/ textboxsize = (50,10)
+/ required = true
+</textbox>
+
+<surveypage name>
+/ questions = [1=name]
+/ fontstyle = ("Arial", 14pt)
+/ responsefontstyle = ("Arial", 12pt)
+/ showbackbutton = false
+/ showpagenumbers=false
+</surveypage>
+
+<survey end>
+/ screencolor = (255, 255, 255)
+/ pages = [ 1= stop]
+</survey>
+
+<survey demographics>
+/ screencolor = (255, 255, 255)
+/ pages = [1=demographics1; 2=demographics2]
+</survey>
+
+<survey name>
+/ screencolor = (255, 255, 255)
+/ pages = [1=name]
+</survey>
+
+*****************************LISTS*****************************
+
+<list listA>
+/ selectionmode = random
+/ selectionrate = always
+/ items = (trial.AsianEliteSRTrial, trial.HispanicIllegalNETrial, trial.WomenLeadersSRTrial, 
+trial.GirlsMathNETrial, trial.LesbianTradeSRTrial, trial.GayAppearanceNETrial, 
+trial.BlackSubsidizedSRTrial, trial.BlackAthleticNETrial, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read)
+</list>
+
+<list listB>
+/ selectionmode = random
+/ selectionrate = always
+/ items = (trial.HispanicIllegalSRTrial, trial.AsianEliteNETrial, trial.GirlsMathSRTrial, 
+trial.WomenLeadersNETrial, trial.GayAppearanceSRTrial, trial.LesbianTradeNETrial, 
+trial.BlackAthleticSRTrial, trial.BlackSubsidizedNETrial, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read, 
+trial.B1read, trial.B1read, trial.B1read, trial.B1read, trial.B1read)
+</list>
+
+<list recog>
+/ selectionmode = random
+/ selectionrate = always
+/ items = (trial.B2recogNEOP, trial.B2recogNE, trial.B2recogNEOP, trial.B2recogNE,
+
+trial.B2recog,trial.B2recog, trial.B2recog,
+
+trial.B2recog,trial.B2recog, trial.B2recog,trial.B2recog,trial.B2recog, 
+trial.B2recog,trial.B2recog, trial.B2recog,trial.B2recog,trial.B2recog, 
+trial.B2recog,trial.B2recog, trial.B2recog,trial.B2recog,trial.B2recog, 
+trial.B2recog,trial.B2recog, trial.B2recog,trial.B2recog,trial.B2recog, 
+trial.B2recog,trial.B2recog, trial.B2recog,trial.B2recog,trial.B2recog, 
+trial.B2recog,trial.B2recog, trial.B2recog,trial.B2recog,trial.B2recog, 
+trial.B2recog,trial.B2recog, trial.B2recog,trial.B2recog,trial.B2recog, 
+trial.B2recog,trial.B2recog, trial.B2recog,trial.B2recog,trial.B2recog, 
+trial.B2recogSC,trial.B2recogSCOP,trial.B2recogSD,trial.B2recogSDOP)
+</list>
+
+<values>
+/ sccounter=0
+/ sdcounter=0
+</values>
+
+<list fillintheblank>
+/ selectionmode = random
+/ selectionrate = always
+/ items = (surveypage.SRsurveypages, surveypage.SRsurveypages, surveypage.SRsurveypages, surveypage.SRsurveypages,
+surveypage.SRsurveypages, surveypage.SRsurveypages, surveypage.SRsurveypages, surveypage.SRsurveypages, 
+surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages,
+surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages,
+surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages,
+surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages,
+surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages,
+surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages,
+surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages,
+surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages,
+surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages,
+surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages,
+surveypage.fillersurveypages, surveypage.fillersurveypages, surveypage.fillersurveypages)
+</list>
+
+*****************************BLOCKS*****************************
+
+********************************reading*****************************
+<block listA>
+/ trials = [1-51=list.listA]
+/ bgstim = (MoveOnright)
+/ preinstructions = sequence(page.intro, page.intro2, page.read)
+</block>
+
+<block listB>
+/ trials = [1-51=list.listB]
+/ bgstim = (MoveOnright)
+/ preinstructions = sequence(page.intro, page.intro2)
+</block>
+
+
+*****************************recognizing***************************************************************************************
+<block recog>
+/ trials = [1-51 = list.recog]
+/ bgstim = (NoRecognizeleft, Recognizeright)
+/ preinstructions = (page.recog)
+</block>
+
+<block survey>
+/ trials = [1 = surveypage.demographics1; 2 = surveypage.demographics2]
+</block>
+
+<block surveystop>
+/ trials = [1 = surveypage.stop]
+</block>
+
+
+
+
+
+DISTRACTOR
+
+
+
+
+
+**************************************************************************************************************
+**************************************************************************************************************
+	EDITABLE PARAMETERS: change editable parameters here
+**************************************************************************************************************
+**************************************************************************************************************
+
+<parameters>
+/ correctresponsekey = 57
+/ correctresponsekey_label = "SPACEBAR"
+
+/ fontsize_stims = 10%
+
+/ mathproblemduration = 2000
+/ equalsignduration = 1000
+/ mathanswerduration = 1000
+/ iti = 0
+
+/ runoperation = 2
+/ maxnr_mathproblems = 40
+</parameters>
+
+**************************************************************************************************************
+**************************************************************************************************************
+	EDITABLE INSTRUCTIONS: change instructions here
+**************************************************************************************************************
+**************************************************************************************************************
+instruct math>
+/ fontstyle = ("Arial", 2.00%, false, false, false, false, 5, 1)
+/ txcolor = black
+</instruct>
+
+<page distractend>
+You have reached the end of the task.
+^^Thank you!
+</page>
+
+<htmlpage distractintro1>
+/ file = "intro1.htm"
+</htmlpage>
+
+<htmlpage distractintro2>
+/ file = "intro2.htm"
+</htmlpage>
+
+*******************************
+General Helper Instructions
+******************************
+
+<text getReady>
+/ fontstyle = ("Arial", 5.00%, false, false, false, false, 5, 1)
+/ items = ("Get ready:
+~n~n<%expressions.buttoninstruct2%>")
+/ size = (80%, 40%)
+</text>
+
+
+****************************************************************************************************
+general instruction expressions: adjust the instruction text depending on device used to run script
+****************************************************************************************************
+<expressions>
+/ buttoninstruct1 = if (computer.touch && !computer.haskeyboard) {"response button";} else {"key";}
+/ buttoninstruct2 = if (computer.touch && !computer.haskeyboard) {"Place your index finger over the <%parameters.correctresponsekey_label%> button.";} else {"Place your index finger on the <%parameters.correctresponsekey_label%> key.";}
+/ buttoninstruct3 = if (computer.touch && !computer.haskeyboard) {"The <%parameters.correctresponsekey_label%> button will be located at the bottom of your screen.";} else {"";}
+</expressions>
+
+**************************************************************************************************************
+								!!!REMAINING CODE: Customize after careful consideration only!!!
+**************************************************************************************************************
+
+
+**************************************************************************************************************
+**************************************************************************************************************
+	DEFAULTS
+**************************************************************************************************************
+**************************************************************************************************************
+script requires Inquisit 5.0.7.0 or higher
+
+<defaults>
+/ canvasaspectratio = (4,3)
+/ minimumversion = "5.0.7.0"
+/ fontstyle = ("Arial", 3%, false, false, false, false, 5, 1)
+/ txbgcolor = white
+/ txcolor = (0, 0, 0)
+</defaults>
+
+**************************************************************************************************************
+**************************************************************************************************************
+	DATA
+**************************************************************************************************************
+**************************************************************************************************************
+
+Note: data file explanations under User Manual Information at the top
+
+********************
+summary data
+********************
+
+summarydata>
+/ columns = (script.startdate, script.starttime, script.subjectid, script.groupid, script.elapsedtime, computer.platform, values.completed, 
+values.countmathproblems,
+expressions.prop_correct, expressions.prop_diff1, expressions.prop_diff2, expressions.prop_diff3, expressions.prop_diff4, expressions.prop_diff5)
+/ separatefiles = true
+</summarydata>
+
+
+*******************************************************************************************************************
+*******************************************************************************************************************
+	VALUES: automatically updated
+*******************************************************************************************************************
+*******************************************************************************************************************
+/completed:							0 = script was not completed; 1 = script was completed (all conditions run)
+
+/countmathproblems:					tracks the number of math problems run
+/difficulty:						stores the level of difficulty of the current math problem
+
+/number1:							stores the first number of the subtraction problem (e.g. minuend)
+/number2:							stores the second number of the subtraction problem (e.g. subtrahend)
+/helper:							temporary helper variable; used to reverse the value of minuend and subtrahend if initial minuend < subtrahend
+/operation:							1 = addition operation; 2 = subtraction operation
+/mathproblemstring:					stores the math problem in a string with white spaces (for presentation purposes)
+/mathproblem:						stores the math problem in a string without white spaces (for evaluation purposes)
+
+/correctness:						1 = presented answer is correct; 2 = presented answer is incorrect
+/correctsolution:						stores the correct answer of the problem
+/presentedsolution:							stores the presented answer (either correct or foil)
+/foiladjustment:					stores the adjustment value applied to correct answer to create foil
+
+/digit1-
+/digit4:							store the individual digits of a number
+
+<values>
+/ completed = 0
+
+/ countmathproblems = 0
+/ difficulty = 0
+/ number = ""
+/ number1 = ""
+/ number2 = ""
+/ helper = ""
+/ operation = ""
+/ mathproblemstring = ""
+/ mathproblem = ""
+
+/ correctness = 0
+/ correctsolution = ""
+/ presentedsolution = ""
+/ foiladjustment = ""
+
+/ digit1 = ""
+/ digit2 = ""
+/ digit3 = ""
+/ digit4 = ""
+</values>
+
+
+Summary Variables
+
+/countcorrect:				keeps a count of all correct responses
+/count_diff1-
+/count_diff5:				counts the number of problems worked on for each level of difficulty
+
+<values>
+/ countcorrect = 0
+/ count_diff1 = 0
+/ count_diff2 = 0
+/ count_diff3 = 0
+/ count_diff4 = 0
+/ count_diff5 = 0
+</values>
+
+*******************************************************************************************************************
+*******************************************************************************************************************
+	EXPRESSIONS
+*******************************************************************************************************************
+*******************************************************************************************************************
+
+expressions to create the 1, 2, 3 digit numbers (A => values.number1; B => values.number2 for the current problem)
+
+/1digitA
+/3digitsB:   expressions to create the 1, 2, 3 digit numbers (A => values.number1; B => values.number2 for the current problem)
+/operation:  expression to determine the type of operations for mixed problems (parameters.runoperation = 3)
+
+/generatemathproblem:	generates the mathproblem
+
+/generatefoilanswer:	generates the foil math answer with the following algorithm
+							1. values.foiladjustment = 1 if the second number is a single digit number => foil = correctsolution +/- 1
+							2. values.foiladjustment = 10 if the second number is a 2-digit number => foil = correctsolution +/- 10
+
+/checkfoilanswer:		checks the foil math answer to make sure that
+							1. if the correct answer happens to be a single digit number, the foil will also be a single digit number
+								(if that is the case values.foiladjustment is set to 1 and a new foil is generated)
+							2. no foils smaller than 1 are created; if so a new foil is generated
+							3. the answer is never equal to correctsolution; if so a new foil is generated
+
+
+<expressions>
+/ 1digitA = {values.number1 = "";
+			values.digit1 = list.firstdigit.nextvalue; 
+			values.number1=concat(values.number1, values.digit1);}			
+/ 1digitB = {values.number2 = "";
+			values.digit1 = list.firstdigit.nextvalue; 
+			values.number2=concat(values.number2, values.digit1);
+			if (values.number2 == values.number1) 
+				expressions.1digitB
+			;
+			}
+
+/ 2digitsA = {values.number1 = "";
+			values.digit1 = list.firstdigit.nextvalue; 
+			values.number1=concat(values.number1, values.digit1);
+			values.digit2 = list.additionaldigits.nextvalue; 
+			values.number1=concat(values.number1, values.digit2);}			
+/ 2digitsB = {values.number2 = "";
+			values.digit1 = list.firstdigit.nextvalue; 
+			values.number2=concat(values.number2, values.digit1);
+			values.digit2 = list.additionaldigits.nextvalue; 
+			values.number2=concat(values.number2, values.digit2);
+			if (values.number2 == values.number1) 
+				expressions.2digitsB
+			;
+			}
+
+/ 3digitsA = {values.number1 = "";
+			values.digit1 = list.firstdigit.nextvalue; 
+			values.number1=concat(values.number1, values.digit1);
+			values.digit2 = list.additionaldigits.nextvalue; 
+			values.number1=concat(values.number1, values.digit2);
+			values.digit3 = list.additionaldigits.nextvalue; 
+			values.number1=concat(values.number1, values.digit3);}
+/ 3digitsB = {values.number2 = "";
+			values.digit1 = list.firstdigit.nextvalue; 
+			values.number2=concat(values.number2, values.digit1);
+			values.digit2 = list.additionaldigits.nextvalue; 
+			values.number2=concat(values.number2, values.digit2);
+			values.digit3 = list.additionaldigits.nextvalue; 
+			values.number2=concat(values.number2, values.digit3);
+			if (values.number2 == values.number1) 
+				expressions.3digitsB
+			;}
+
+
+/ operation = {
+		if (list.operation.nextvalue == 1) 
+				values.operation = "+" 
+		else 
+			values.operation = "-";}
+
+/ generatemathproblem = {values.mathproblemstring = ""; values.mathproblem = "";
+					values.mathproblemstring = concat(values.mathproblemstring, values.number1); 
+					values.mathproblem = concat(values.mathproblem, values.number1);
+					values.mathproblemstring = concat(values.mathproblemstring, " ");
+					values.mathproblemstring = concat(values.mathproblemstring, values.operation); 
+					values.mathproblem = concat(values.mathproblem, values.operation);
+					values.mathproblemstring = concat(values.mathproblemstring, " ");
+					values.mathproblemstring = concat(values.mathproblemstring, values.number2); 
+					values.mathproblem = concat(values.mathproblem, values.number2);}
+
+/ generatefoilanswer = {values.presentedsolution = ""; 
+					if (list.operation.nextvalue == 1) 
+						values.presentedsolution = values.correctsolution + values.foiladjustment 
+					else 
+						values.presentedsolution = values.correctsolution - values.foiladjustment;
+					expressions.checkfoilanswer;}
+
+/ checkfoilanswer = {if (length(values.presentedsolution) == 2 && length(values.correctsolution) == 1) 
+						{values.foiladjustment = 1; 
+						expressions.generatefoilanswer}
+					else if (values.presentedsolution < 1) 
+						{expressions.generatefoilanswer}
+					else if (values.presentedsolution == values.correctsolution) 
+						expressions.generatefoilanswer
+					;
+					}
+
+</expressions>
+
+
+SUMMARY VARIABLES:
+
+/prop_correct:		proportion correct responses
+/prop_diff1-
+/prop_diff5:		proportion of problems worked on for each level of difficulty
+
+<expressions>
+/ prop_correct = values.countcorrect/values.countmathproblems
+/ prop_diff1 = values.count_diff1/values.countmathproblems
+/ prop_diff2 = values.count_diff2/values.countmathproblems
+/ prop_diff3 = values.count_diff3/values.countmathproblems
+/ prop_diff4 = values.count_diff4/values.countmathproblems
+/ prop_diff5 = values.count_diff5/values.countmathproblems
+</expressions>
+
+*******************************************************************************************************************
+*******************************************************************************************************************
+	STIMULI
+*******************************************************************************************************************
+*******************************************************************************************************************
+
+<text mathproblem>
+/ items = ("<%values.mathproblemstring%>")
+/ position = (50%, 50%)
+/ fontstyle = ("Arial", parameters.fontsize_stims, false, false, false, false, 5, 1)
+/ txcolor = black
+</text>
+
+<text equal>
+/ items = ("=")
+/ position = (50%, 50%)
+/ fontstyle = ("Arial", parameters.fontsize_stims, false, false, false, false, 5, 1)
+/ txcolor = black
+</text>
+
+<text mathanswer>
+/ items = ("<%values.presentedsolution%>")
+/ position = (50%, 50%)
+/ fontstyle = ("Arial", parameters.fontsize_stims, false, false, false, false, 5, 1)
+/ txcolor = black
+</text>
+
+<text correctfeedback>
+/ items = ("O")
+/ position = (50%, 50%)
+/ fontstyle = ("Arial", parameters.fontsize_stims, true, false, false, false, 5, 1)
+/ txcolor = green
+</text>
+
+<text incorrectfeedback>
+/ items = ("X")
+/ position = (50%, 50%)
+/ fontstyle = ("Arial", parameters.fontsize_stims, true, false, false, false, 5, 1)
+/ txcolor = red
+</text>
+
+*******************************************************************************************************************
+*******************************************************************************************************************
+	LISTS
+*******************************************************************************************************************
+*******************************************************************************************************************
+
+list is used to create the first digit of a number (cannot be 0)
+<list firstdigit>
+/ items = (1, 2, 3, 4, 5, 6, 7, 8, 9)
+/ replace = true
+/ selectionrate = always
+</list>
+
+list is used to create digit2 and above of numbers with lengths > 1 digit
+<list additionaldigits>
+/ items = (1, 2, 3, 4, 5, 6, 7, 8, 9, 0)
+/ replace = true
+/ selectionrate = always
+</list>
+
+list randomly without replacement selects whether the presented answer should be correct
+or a foil.
+(50% of the problems receive a correct; 50% of the problems receive a foil answer)
+<list correctness>
+/ items = (1, 2)
+/ poolsize = parameters.maxnr_mathproblems
+/ replace = false
+</list>
+
+list randomly with replacement selects an addition (1) or subtraction (2) operation
+<list operation>
+/ items = (1, 2)
+/ replace = true
+/ selectionrate = always
+</list>
+
+*******************************************************************************************************************
+*******************************************************************************************************************
+	TRIALS
+*******************************************************************************************************************
+*******************************************************************************************************************
+
+NOTE: change feedback duration
+correct and incorrect feedback is provided for 500ms via
+/correctmessage = 
+/errormessage = 
+
+in each trial.XXXX_answer. To change duration, simply change 500 to the desired duration in each of the trials.
+
+*********************************************************
+Difficulty 1 trial sequence
+*********************************************************
+
+* generates random subtraction mathproblem with  1digit - 1digit
+* the numbers as well as the mathproblem are created with expressions
+* if number2 < number1 => role reversal
+* establishes the correct answer to the problem
+as well as whether or not a foil answer should be presented (via values.correctness)
+* presents mathproblem for parameters.mathproblemduration and then calls trial.1digit1digit_equal
+
+<trial 1digit1digit>
+/ ontrialbegin = [
+	values.difficulty = 1;
+	values.foiladjustment = 1;
+	expressions.1digitA;
+	expressions.1digitB;
+	if (parameters.runoperation == 1)
+		values.operation = "+";
+	else if (parameters.runoperation == 2)
+		values.operation = "-";
+	else
+		expressions.operation;
+	if (values.operation == "-" && values.number1 < values.number2) {
+		values.helper = values.number1;
+		values.number1 = values.number2;
+		values.number2 = values.helper;
+	};
+	expressions.generatemathproblem;
+	values.correctsolution = evaluate(values.mathproblem);
+	values.correctness = list.correctness.nextvalue;
+	if (values.correctness == 1)
+		values.presentedsolution = values.correctsolution;
+	else
+		expressions.generatefoilanswer;
+	trial.1digit1digit.insertstimulustime(clearscreen, parameters.mathproblemduration);
+	trial.1digit1digit.insertstimulustime(text.equal, parameters.mathproblemduration);
+	trial.1digit1digit.insertstimulustime(text.mathanswer, (parameters.mathproblemduration + parameters.equalsignduration));
+]	
+
+/ stimulusframes = [1 = mathproblem]
+/ beginresponsetime = parameters.mathproblemduration + parameters.equalsignduration
+/ response = timeout(parameters.mathanswerduration)
+/ validresponse = (parameters.correctresponsekey, 0)
+/ iscorrectresponse = [	(values.correctness == 1 && trial.1digit1digit.response == parameters.correctresponsekey) ||
+						(values.correctness == 2 && trial.1digit1digit.response == 0)]
+/ ontrialend = [
+	trial.1digit1digit.resetstimulusframes();
+	if (trial.1digit1digit.correct)
+		values.countcorrect += 1;
+	values.countmathproblems += 1;
+	values.count_diff1 += 1;
+]	
+/ correctmessage = (correctfeedback, 500)
+/ errormessage = (incorrectfeedback, 500)
+/ branch = [
+	if (trial.1digit1digit.correct)
+		trial.2digits1digit;
+	else
+		trial.1digit1digit;
+]
+/ posttrialpause = parameters.iti
+</trial>
+
+*********************************************************
+Difficulty 2 trial sequence
+*********************************************************
+
+<trial 2digits1digit>
+/ ontrialbegin = [
+	values.difficulty = 2;
+	values.foiladjustment = 1;
+	expressions.2digitsA;
+	expressions.1digitB;
+	if (parameters.runoperation == 1)
+		values.operation = "+";
+	else if (parameters.runoperation == 2)
+		values.operation = "-";
+	else
+		expressions.operation;
+	if (values.operation == "-" && values.number1 < values.number2) {
+		values.helper = values.number1;
+		values.number1 = values.number2;
+		values.number2 = values.helper;
+	}
+	expressions.generatemathproblem;
+	values.correctsolution = evaluate(values.mathproblem);
+	values.correctness = list.correctness.nextvalue;
+	if (values.correctness == 1)
+		values.presentedsolution = values.correctsolution;
+	else
+		expressions.generatefoilanswer;
+	trial.2digits1digit.insertstimulustime(clearscreen, parameters.mathproblemduration);
+	trial.2digits1digit.insertstimulustime(text.equal, parameters.mathproblemduration);
+	trial.2digits1digit.insertstimulustime(text.mathanswer, (parameters.mathproblemduration + parameters.equalsignduration));
+]				
+/ stimulusframes = [1 = mathproblem]
+/ beginresponsetime = parameters.mathproblemduration + parameters.equalsignduration
+/ response = timeout(parameters.mathanswerduration)
+/ validresponse = (parameters.correctresponsekey, 0)
+/ iscorrectresponse = [	(values.correctness == 1 && trial.2digits1digit.response == parameters.correctresponsekey) ||
+						(values.correctness == 2 && trial.2digits1digit.response == 0)]
+/ correctmessage = (correctfeedback, 500)
+/ errormessage = (incorrectfeedback, 500)
+/ ontrialend = [
+	trial.2digits1digit.resetstimulusframes();
+	if (trial.2digits1digit.correct)
+		values.countcorrect += 1;
+	values.countmathproblems += 1;
+	values.count_diff2 += 1;
+]
+/ branch = [
+	if (trial.2digits1digit.correct)
+		trial.2digits2digits;
+	else
+		trial.1digit1digit;
+]
+/ posttrialpause = parameters.iti
+</trial>
+
+*********************************************************
+Difficulty 3 trial sequence
+*********************************************************
+
+<trial 2digits2digits>
+/ ontrialbegin = [
+	values.difficulty = 3;
+	values.foiladjustment = 10;
+	expressions.2digitsA;
+	expressions.2digitsB;
+	if (parameters.runoperation == 1)
+		values.operation = "+";
+	else if (parameters.runoperation == 2)
+		values.operation = "-";
+	else
+		expressions.operation;
+	if (values.operation == "-" && values.number1 < values.number2) {
+		values.helper = values.number1;
+		values.number1 = values.number2;
+		values.number2 = values.helper;
+	};
+	expressions.generatemathproblem;
+	values.correctsolution = evaluate(values.mathproblem);
+	values.correctness = list.correctness.nextvalue;
+	if (values.correctness == 1)
+		values.presentedsolution = values.correctsolution;
+	else
+		expressions.generatefoilanswer;
+	trial.2digits2digits.insertstimulustime(clearscreen, parameters.mathproblemduration);
+	trial.2digits2digits.insertstimulustime(text.equal, parameters.mathproblemduration);
+	trial.2digits2digits.insertstimulustime(text.mathanswer, (parameters.mathproblemduration + parameters.equalsignduration));
+]
+/ stimulusframes = [1 = mathproblem]
+/ beginresponsetime = parameters.mathproblemduration + parameters.equalsignduration
+/ response = timeout(parameters.mathanswerduration)
+/ validresponse = (parameters.correctresponsekey, 0)
+/ iscorrectresponse = [	(values.correctness == 1 && trial.2digits2digits.response == parameters.correctresponsekey) ||
+						(values.correctness == 2 && trial.2digits2digits.response == 0)]
+/ correctmessage = (correctfeedback, 500)
+/ errormessage = (incorrectfeedback, 500)
+/ ontrialend = [
+	trial.2digits2digits.resetstimulusframes();
+	if (trial.2digits2digits.correct)
+		values.countcorrect += 1;
+	values.countmathproblems += 1;
+	values.count_diff3 += 1;
+]
+/ branch = [
+	if (trial.2digits2digits.correct)
+		trial.3digits2digits;
+	else
+		trial.2digits1digit;
+]
+/ posttrialpause = parameters.iti
+</trial>
+
+*********************************************************
+Difficulty 4 trial sequence
+*********************************************************
+
+<trial 3digits2digits>
+/ ontrialbegin = [
+	values.difficulty = 4;
+	values.foiladjustment = 10;
+	expressions.3digitsA;
+	expressions.2digitsB;
+	if (parameters.runoperation == 1)
+		values.operation = "+";
+	else if (parameters.runoperation == 2)
+		values.operation = "-";
+	else
+		expressions.operation;
+	if (values.operation == "-" && values.number1 < values.number2) {
+		values.helper = values.number1;
+		values.number1 = values.number2;
+		values.number2 = values.helper;
+	};
+	expressions.generatemathproblem;
+	values.correctsolution = evaluate(values.mathproblem);
+	values.correctness = list.correctness.nextvalue;
+	if (values.correctness == 1)
+		values.presentedsolution = values.correctsolution;
+	else
+		expressions.generatefoilanswer;
+	trial.3digits2digits.insertstimulustime(clearscreen, parameters.mathproblemduration);
+	trial.3digits2digits.insertstimulustime(text.equal, parameters.mathproblemduration);
+	trial.3digits2digits.insertstimulustime(text.mathanswer, (parameters.mathproblemduration + parameters.equalsignduration));
+]
+/ stimulusframes = [1 = mathproblem]
+/ beginresponsetime = parameters.mathproblemduration + parameters.equalsignduration
+/ response = timeout(parameters.mathanswerduration)
+/ validresponse = (parameters.correctresponsekey, 0)
+/ iscorrectresponse = [	(values.correctness == 1 && trial.3digits2digits.response == parameters.correctresponsekey) ||
+						(values.correctness == 2 && trial.3digits2digits.response == 0)]
+/ correctmessage = (correctfeedback, 500)
+/ errormessage = (incorrectfeedback, 500)
+/ ontrialend = [
+	trial.3digits2digits.resetstimulusframes();
+	if (trial.3digits2digits.correct)
+		values.countcorrect += 1;
+	values.countmathproblems += 1;
+	values.count_diff4 += 1;
+]
+/ branch = [
+	if (trial.3digits2digits.correct)
+		trial.3digits3digits;
+	else
+		trial.2digits2digits;
+]
+/ posttrialpause = parameters.iti
+</trial>
+
+*********************************************************
+Difficulty 5 trial sequence
+*********************************************************
+
+<trial 3digits3digits>
+/ ontrialbegin = [
+	values.difficulty = 5;
+	values.foiladjustment = 10;
+	expressions.3digitsA;
+	expressions.3digitsB;
+	if (parameters.runoperation == 1)
+		values.operation = "+";
+	else if (parameters.runoperation == 2)
+		values.operation = "-";
+	else
+		expressions.operation;
+	if (values.operation == "-" && values.number1 < values.number2) {
+		values.helper = values.number1;
+		values.number1 = values.number2;
+		values.number2 = values.helper;
+	};
+	expressions.generatemathproblem;
+	values.correctsolution = evaluate(values.mathproblem);
+	values.correctness = list.correctness.nextvalue;
+	if (values.correctness == 1)
+		values.presentedsolution = values.correctsolution;
+	else
+		expressions.generatefoilanswer;
+	trial.3digits3digits.insertstimulustime(clearscreen, parameters.mathproblemduration);
+	trial.3digits3digits.insertstimulustime(text.equal, parameters.mathproblemduration);
+	trial.3digits3digits.insertstimulustime(text.mathanswer, (parameters.mathproblemduration + parameters.equalsignduration));
+]
+/ stimulusframes = [1 = mathproblem]
+/ beginresponsetime = parameters.mathproblemduration + parameters.equalsignduration
+/ response = timeout(parameters.mathanswerduration)
+/ validresponse = (parameters.correctresponsekey, 0)
+/ iscorrectresponse = [	(values.correctness == 1 && trial.3digits3digits.response == parameters.correctresponsekey) ||
+						(values.correctness == 2 && trial.3digits3digits.response == 0)]
+/ correctmessage = (correctfeedback, 500)
+/ errormessage = (incorrectfeedback, 500)
+/ ontrialend = [
+	trial.3digits3digits.resetstimulusframes();
+	if (trial.3digits3digits.correct)
+		values.countcorrect += 1;
+	values.countmathproblems += 1;
+	values.count_diff5 += 1;
+]
+/ branch = [
+	if (trial.3digits3digits.correct)
+		trial.3digits3digits;
+	else
+		trial.3digits2digits;
+]
+/ posttrialpause = parameters.iti
+</trial>
+
+*****************************
+General Helper Trial
+*****************************
+
+<trial GetReady>
+/ stimulusframes = [1 = getReady]
+/ trialduration = 2000
+/ validresponse = (57)
+/ beginresponsetime = 2000
+/ errormessage = false
+</trial>
+
+*******************************************************************************************************************
+*******************************************************************************************************************
+	BLOCKS
+*******************************************************************************************************************
+*******************************************************************************************************************
+
+<block math>
+/ preinstructions = (distractintro1, distractintro2)
+/ stop = [values.countmathproblems == parameters.maxnr_mathproblems]
+/ trials = [1 = GetReady; 2= 2digits2digits]
+</block>
+
+
+END DISTRACTOR TASK
+
+
+
+
+<expt SRD1>
+/ subjects = (1 of 2)
+/ blocks = [1=wait;2=listA;3=math;4=recog;5=SRCsurvey;6=survey;7=name]
+</expt>
+
+
+<expt SRD2>
+/ subjects = (2 of 2)
+/ blocks = [1=wait;2=listB;3=math;4=recog;5=SRCsurvey;6=survey;7=name]
+</expt>
